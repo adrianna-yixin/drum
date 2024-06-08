@@ -1,4 +1,13 @@
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
   text-align: center;
   background-color: #283149;
 }
@@ -45,7 +54,7 @@ footer {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 6% auto;
 }
 
 .game-over {

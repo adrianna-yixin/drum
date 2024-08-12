@@ -5,7 +5,9 @@ The Drum Kit project is an interactive web application that lets users play virt
 - **Mouse Interaction**: Click on drums to play sounds.
 - **Responsive Design**: Works seamlessly across different devices.
 ## 🚀 Getting Started
-### How to Use
+### Access the Web Page
+You can access the live web page directly at: [Drum Kit](https://github.com/adrianna-yixin/drum-kit).
+### How to Use Locally
 1. Clone the repository:
 `git clone https://github.com/adrianna-yixin/drum-kit.git`
 2. Open index.html in your browser.
